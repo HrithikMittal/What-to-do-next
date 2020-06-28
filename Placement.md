@@ -1,7 +1,7 @@
 # Placements
 
 * Coding Ninjas Course
-* Operating System
+* Operating System [Videos](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD)
 * Data Base Management System
 
 
