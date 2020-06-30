@@ -1,12 +1,12 @@
 **Dynamic Programming Questions:**
 
-- [ ] • How to solve a Dynamic Programming Problem? [Practice here:
+- [x] • How to solve a Dynamic Programming Problem? [Practice here:
       https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ ]
 
 - [ ] • Binomial Coefficient Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/ncr/0 ]
 
-- [ ] • Permutation Coefficient Problem [Practice here:
+- [x] • Permutation Coefficient Problem [Practice here:
       https://www.geeksforgeeks.org/permutation-coefficient/ ]
 
 - [ ] • Coin Change Problem [Practice here:
@@ -15,7 +15,7 @@
 - [ ] • Gold MineProblem [Practice here:
       https://practice.geeksforgeeks.org/problems/gold-mine-problem/0 ]
 
-- [ ] • Friends Pairing Problem[Practice here:
+- [x] • Friends Pairing Problem[Practice here:
       https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0 ]
 
 - [ ] • Subset Sum Problem [Practice here:
@@ -27,90 +27,81 @@
 - [ ] • Maximize The Cut Segments [Practice here:
       https://practice.geeksforgeeks.org/problems/cutted-segments/0 ]
 
-- [ ] • Painting the Fence problem [Practice here:
+* [x] • Painting the Fence problem [Practice here:
       https://practice.geeksforgeeks.org/problems/painting-the-fence/0 ]
 
-- [ ] • AssemblyLineSchedulingProblem [Practice here:
-      https://www.geeksforgeeks.org/assembly-line- scheduling-dp-34/ ]
+* [x] • Assembly Line Scheduling Problem [Practice here:
+      https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/ ]
 
-- [ ] • FindmaximumlengthSnakesequence [Practice here:
-      https://www.geeksforgeeks.org/find-maximum- length-snake-sequence/ ]
+* [ ] • Find maximum length Snake sequence [Practice here:
+      https://www.geeksforgeeks.org/find-maximum-length-snake-sequence/ ]
 
-- [ ] • PrintFibonacciSeriesinreverseorder [Practice here:
-      https://www.geeksforgeeks.org/print-fibonacci- series-reverse-order/ ]
+* [x] • Print Fibonacci Series in reverse order [Practice here:
+      https://www.geeksforgeeks.org/print-fibonacci-series-reverse-order/ ]
 
-- [ ] • LongestCommonSubsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-common- subsequence/0
+* [x] • Longest Common Subsequence [Practice here:
+      https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0 ]
+
+* [x] • Longest Repeated Subsequence [Practice here:
+      https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0
       ]
 
-- [ ] • LongestRepeatedSubsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-repeating-
-      subsequence/0 ]
+* [x] • Longest Increasing Subsequence [Practice here:
+      https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0
+      ]
 
-- [ ] • LongestIncreasingSubsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-increasing-
-      subsequence/0 ]
+* [x] • Space Optimized Solution of LCS [See here:
+      https://www.geeksforgeeks.org/space-optimized-solution-lcs/ ]
 
-- [ ] • SpaceOptimizedSolutionofLCS [See here:
-      https://www.geeksforgeeks.org/space-optimized- solution-lcs/ ]
+* [x] • LCS (Longest Common Subsequence) of three strings [Practice here:
+      https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0 ]
 
-- [ ] • LCS(LongestCommonSubsequence)ofthreestrings [Practice here:
-      https://practice.geeksforgeeks.org/problems/lcs- of-three-strings/0 ]
+* [x] • Maximum Sum Increasing Subsequence [Practice here:
+      https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0
+      ]
 
-- [ ] • MaximumSumIncreasingSubsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/maximum-sum-
-      increasing-subsequence/0 ]
+- [ ] • Count all subsequences having product less than K [Practice here:
+      https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
 
-- [ ] • CountallsubsequenceshavingproductlessthanK [Practice here:
-      https://www.geeksforgeeks.org/count- subsequences-product-less-k/ ]
+- [x] • Longest subsequence such that difference between adjacent is
+      one[Practice here:
 
-- [ ] • Longestsubsequencesuchthatdifferencebetweenadjacent is one
+  ​
+  https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0
+  ]
 
-[Practice here:
+- [x] • Maximum subsequence sum such that no three are consecutive [Practice
+      here:
 
-https://practice.geeksforgeeks.org/problems/longest-
-subsequence-such-that-difference-between-adjacents-is-one/0 ]
+  https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/
+  ]
 
-- [ ] • Maximumsubsequencesumsuchthatnothreeare consecutive
-
-[Practice here: https://www.geeksforgeeks.org/maximum-
-subsequence-sum-such-that-no-three-are-consecutive/ ]
-
-- [ ] • MaximumLengthChainofPairs [Practice here:
-      https://practice.geeksforgeeks.org/problems/max-length- chain/1 ]
-
-- [ ] • MinimumSumPathinaTriangle [Practice here:
-      https://www.geeksforgeeks.org/minimum-sum- path-triangle/ ]
-
-- [ ] • Maximumsizesquaresub-matrixwithall1s [Practice here:
-      https://practice.geeksforgeeks.org/problems/largest-square-
-      formed-in-a-matrix/0 ]
-
-- [ ] • Maximumsumofpairswithspecificdifference [Practice here:
-      https://practice.geeksforgeeks.org/problems/pairs-with-
-      specific-difference/0 ]
-
-- [ ] • Maximumdifferenceofzerosandonesinbinarystring [Practice here:
+- [x] • Maximum Length Chain of Pairs [Practice here:
+      https://practice.geeksforgeeks.org/problems/max-length-chain/1 ]
+- [ ] • Minimum Sum Path in a Triangle [Practice here:
+      https://www.geeksforgeeks.org/minimum-sum-path-triangle/ ]
+- [ ] • Maximum size square sub-matrix with all 1s [Practice here:
+      https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0
+      ]
+- [ ] • Maximum sum of pairs with specific difference [Practice here:
+      https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0
+      ]
+- [ ] • Maximum difference of zeros and ones in binary string [Practice here:
       https://www.geeksforgeeks.org/maximum-
       difference-zeros-ones-binary-string-set-2-time/ ]
-
-- [ ] • MinCostPathProblem [Practice here:
+- [ ] • Min Cost Path Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
-
-- [ ] • Minimumnumberofjumpstoreachend [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-number- of-jumps/0 ]
-
-- [ ] • Minimumcosttofillgivenweightinabag [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-cost-to-
-      fill-given-weight-in-a-bag/0 ]
-
-- [ ] • Minimumremovalsfromarraytomakemax–min<=K [Practice here:
-      https://www.geeksforgeeks.org/minimum- removals-array-make-max-min-k/ ]
-
-- [ ] • EditDistance [Practice here:
+- [ ] • Minimum number of jump store each end [Practice here:
+      https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 ]
+- [ ] • Minimum cost to fill given weighting a bag [Practice here:
+      https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0
+      ]
+- [ ] • Minimum removals from array to make max–min<=K [Practice here:
+      https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/ ]
+- [ ] • Edit Distance [Practice here:
       https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
 
-- [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
+* [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
 
 [Practice here: https://practice.geeksforgeeks.org/problems/minimum-time/0 ]
 
@@ -144,18 +135,21 @@ with-duplicate-items/0 ]
 - [ ] • EggDroppingPuzzle [Practice here:
       https://practice.geeksforgeeks.org/problems/egg- dropping-puzzle/0 ]
 
-- [ ] • WordBreakProblem [Practice here:
+* [ ] • WordBreakProblem [Practice here:
       https://practice.geeksforgeeks.org/problems/word-break/0 ]
 
-- [ ] • VertexCoverProblem [Practice here:
+* [ ] • VertexCoverProblem [Practice here:
       https://www.geeksforgeeks.org/vertex-cover-
       problem-set-2-dynamic-programming-solution-tree/ ]
 
-- [ ] • TileStackingProblem [Practice here:
+* [ ] • TileStackingProblem [Practice here:
       https://www.geeksforgeeks.org/tile-stacking- problem/ ]
 
-- [ ] • LargestIndependentSetProblem [Practice here:
+* [ ] • LargestIndependentSetProblem [Practice here: <<<<<<< HEAD
       https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
+      ======= https://www.geeksforgeeks.org/largest-
+      independent-set-problem-dp-26/ ]
+  > > > > > > > 8ebf1ebe7e0c655727731c71ad4d02fe45f95d26
 
 • Partitionproblem [Practice here: https://www.geeksforgeeks.org/partition-
 problem-dp-18/ ]
