@@ -1,12 +1,12 @@
 **Dynamic Programming Questions:**
 
-- [ ] • How to solve a Dynamic Programming Problem? [Practice here:
+- [x] • How to solve a Dynamic Programming Problem? [Practice here:
   https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ ]
 
 - [ ] • Binomial Coefficient Problem [Practice here:
   https://practice.geeksforgeeks.org/problems/ncr/0 ]
 
-- [ ] • Permutation Coefficient Problem [Practice here:
+- [x] • Permutation Coefficient Problem [Practice here:
   https://www.geeksforgeeks.org/permutation-coefficient/ ]
 
 - [ ] • Coin Change Problem [Practice here:
@@ -15,7 +15,7 @@
 - [ ] • Gold MineProblem [Practice here:
   https://practice.geeksforgeeks.org/problems/gold-mine-problem/0 ]
 
-- [ ] • Friends Pairing Problem[Practice here:
+- [x] • Friends Pairing Problem[Practice here:
   https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0 ]
 
 - [ ] • Subset Sum Problem [Practice here:
@@ -27,36 +27,46 @@
 - [ ] • Maximize The Cut Segments [Practice here:
   https://practice.geeksforgeeks.org/problems/cutted-segments/0 ]
 
-- [ ] • Painting the Fence problem [Practice here:
+
+
+
+
+
+
+- [x] • Painting the Fence problem [Practice here:
   https://practice.geeksforgeeks.org/problems/painting-the-fence/0 ]
 
-- [ ] • AssemblyLineSchedulingProblem [Practice here:
-  https://www.geeksforgeeks.org/assembly-line- scheduling-dp-34/ ]
+- [x] • Assembly Line Scheduling Problem [Practice here:
+  https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/ ]
 
-- [ ] • FindmaximumlengthSnakesequence [Practice here:
-  https://www.geeksforgeeks.org/find-maximum- length-snake-sequence/ ]
+- [ ] • Find maximum length Snake sequence [Practice here:
+  https://www.geeksforgeeks.org/find-maximum-length-snake-sequence/ ]
 
-- [ ] • PrintFibonacciSeriesinreverseorder [Practice here:
-  https://www.geeksforgeeks.org/print-fibonacci- series-reverse-order/ ]
+- [x] • Print Fibonacci Series in reverse order [Practice here:
+  https://www.geeksforgeeks.org/print-fibonacci-series-reverse-order/ ]
 
-- [ ] • LongestCommonSubsequence [Practice here:
-  https://practice.geeksforgeeks.org/problems/longest-common- subsequence/0 ]
+- [x] • Longest Common Subsequence [Practice here:
+  https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0 ]
 
-- [ ] • LongestRepeatedSubsequence [Practice here:
-  https://practice.geeksforgeeks.org/problems/longest-repeating- subsequence/0 ]
+- [x] • Longest Repeated Subsequence [Practice here:
+  https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0 ]
 
-- [ ] • LongestIncreasingSubsequence [Practice here:
-  https://practice.geeksforgeeks.org/problems/longest-increasing- subsequence/0 ]
+- [ ] • Longest Increasing Subsequence [Practice here:
+  https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0 ]
 
 - [ ] • SpaceOptimizedSolutionofLCS [See here:
   https://www.geeksforgeeks.org/space-optimized- solution-lcs/ ]
 
 - [ ] • LCS(LongestCommonSubsequence)ofthreestrings [Practice here:
-  https://practice.geeksforgeeks.org/problems/lcs- of-three-strings/0 ]
+  https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0 ]
 
 - [ ] • MaximumSumIncreasingSubsequence [Practice here:
   https://practice.geeksforgeeks.org/problems/maximum-sum-
   increasing-subsequence/0 ]
+
+
+
+
 
 - [ ] • CountallsubsequenceshavingproductlessthanK [Practice here:
   https://www.geeksforgeeks.org/count- subsequences-product-less-k/ ]
@@ -108,6 +118,12 @@ subsequence-sum-such-that-no-three-are-consecutive/ ]
 - [ ] • EditDistance [Practice here:
   https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
 
+
+
+
+
+
+
 - [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
 
 
@@ -144,6 +160,10 @@ with-duplicate-items/0 ]
 - [ ] • EggDroppingPuzzle [Practice here:
   https://practice.geeksforgeeks.org/problems/egg- dropping-puzzle/0 ]
 
+
+
+
+
 - [ ] • WordBreakProblem [Practice here:
   https://practice.geeksforgeeks.org/problems/word-break/0 ]
 
@@ -155,7 +175,6 @@ with-duplicate-items/0 ]
 
 - [ ] • LargestIndependentSetProblem [Practice here:
   https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
-
 
 • Partitionproblem [Practice here: https://www.geeksforgeeks.org/partition-
 problem-dp-18/ ]
@@ -177,6 +196,12 @@ https://practice.geeksforgeeks.org/problems/longest- alternating-subsequence/0 ]
 
 • WeightedJobScheduling [Practice here:
 https://www.geeksforgeeks.org/weighted-job- scheduling/ ]
+
+
+
+
+
+
 
 • Coingamewinnerwhereeveryplayerhasthreechoices [Practice here:
 https://www.geeksforgeeks.org/coin-game- winner-every-player-three-choices/ ]
@@ -207,6 +232,10 @@ https://practice.geeksforgeeks.org/problems/optimal-strategy- for-a-game/0 ]
 • OptimalBinarySearchTree [Practice here:
 https://www.geeksforgeeks.org/optimal-binary- search-tree-dp-24/ ]
 
+
+
+
+
 • Numberoforderedpairssuchthat(Ai&Aj)=0 [Practice here:
 https://www.geeksforgeeks.org/number-ordered- pairs-ai-aj-0/ ]
 
@@ -236,6 +265,12 @@ rectangular-sub-matrix-equal-number-1s-0s/ ]
 
 • Maximumsumrectangleina2Dmatrix [Practice here:
 https://practice.geeksforgeeks.org/problems/maximum-sum- rectangle/0 ]
+
+
+
+
+
+
 
 • Maximumweighttransformationofagivenstring [Practice here:
 https://www.geeksforgeeks.org/maximum- weight-transformation-of-a-given-string/
