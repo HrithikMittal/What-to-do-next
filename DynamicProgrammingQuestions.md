@@ -1,5 +1,7 @@
 **Dynamic Programming Questions:**
 
+## Part 1
+
 - [x] • How to solve a Dynamic Programming Problem? [Practice here:
   https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ ]
 
@@ -29,7 +31,7 @@
 
 
 
-
+## Part 2
 
 
 
@@ -65,7 +67,7 @@
 
 
 
-
+## Part 3
 
 - [ ] • Count all subsequences having product less than K [Practice here:
       https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
@@ -104,7 +106,7 @@
 
 
 
-
+## Part 4
 
 - [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
 
@@ -142,7 +144,7 @@ with-duplicate-items/0 ]
 
 
 
-
+## Part 5
 
 - [ ] • WordBreakProblem [Practice here:
       https://practice.geeksforgeeks.org/problems/word-break/0 ]
@@ -183,7 +185,7 @@ with-duplicate-items/0 ]
 
 
 
-
+## Part 6
 
 - [ ] • Coingamewinnerwhereeveryplayerhasthreechoices [Practice here:
   https://www.geeksforgeeks.org/coin-game- winner-every-player-three-choices/ ]
@@ -216,7 +218,7 @@ https://practice.geeksforgeeks.org/problems/dearrangement-of- balls/0 ]
 
 
 
-
+## Part 7
 
 - [ ] • Numberoforderedpairssuchthat(Ai&Aj)=0 [Practice here:
   https://www.geeksforgeeks.org/number-ordered- pairs-ai-aj-0/ ]
@@ -253,7 +255,7 @@ rectangular-sub-matrix-equal-number-1s-0s/ ]
 
 
 
-
+## Part 8
 
 - [ ] • Maximumweighttransformationofagivenstring [Practice here:
   https://www.geeksforgeeks.org/maximum- weight-transformation-of-a-given-string/
