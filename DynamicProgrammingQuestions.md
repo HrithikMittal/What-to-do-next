@@ -4,28 +4,28 @@
   https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ ]
 
 - [ ] • Binomial Coefficient Problem [Practice here:
-  https://practice.geeksforgeeks.org/problems/ncr/0 ]
+      https://practice.geeksforgeeks.org/problems/ncr/0 ]
 
 - [x] • Permutation Coefficient Problem [Practice here:
   https://www.geeksforgeeks.org/permutation-coefficient/ ]
 
 - [ ] • Coin Change Problem [Practice here:
-  https://practice.geeksforgeeks.org/problems/coin-change/0 ]
+      https://practice.geeksforgeeks.org/problems/coin-change/0 ]
 
 - [ ] • Gold MineProblem [Practice here:
-  https://practice.geeksforgeeks.org/problems/gold-mine-problem/0 ]
+      https://practice.geeksforgeeks.org/problems/gold-mine-problem/0 ]
 
 - [x] • Friends Pairing Problem[Practice here:
   https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0 ]
 
 - [ ] • Subset Sum Problem [Practice here:
-  https://practice.geeksforgeeks.org/problems/subset-sum-problem/0 ]
+      https://practice.geeksforgeeks.org/problems/subset-sum-problem/0 ]
 
 - [ ] • Program for nth Catalan Number[Practice here:
-  https://practice.geeksforgeeks.org/problems/nth-catalan-number/0 ]
+      https://practice.geeksforgeeks.org/problems/nth-catalan-number/0 ]
 
 - [ ] • Maximize The Cut Segments [Practice here:
-  https://practice.geeksforgeeks.org/problems/cutted-segments/0 ]
+      https://practice.geeksforgeeks.org/problems/cutted-segments/0 ]
 
 
 
@@ -68,10 +68,9 @@
 
 
 - [ ] • CountallsubsequenceshavingproductlessthanK [Practice here:
-  https://www.geeksforgeeks.org/count- subsequences-product-less-k/ ]
+      https://www.geeksforgeeks.org/count- subsequences-product-less-k/ ]
 
 - [ ] • Longestsubsequencesuchthatdifferencebetweenadjacent is one
-
 
 [Practice here:
 
@@ -80,42 +79,42 @@ subsequence-such-that-difference-between-adjacents-is-one/0 ]
 
 - [ ] • Maximumsubsequencesumsuchthatnothreeare consecutive
 
-
 [Practice here: https://www.geeksforgeeks.org/maximum-
 subsequence-sum-such-that-no-three-are-consecutive/ ]
 
 - [ ] • MaximumLengthChainofPairs [Practice here:
-  https://practice.geeksforgeeks.org/problems/max-length- chain/1 ]
+      https://practice.geeksforgeeks.org/problems/max-length- chain/1 ]
 
 - [ ] • MinimumSumPathinaTriangle [Practice here:
-  https://www.geeksforgeeks.org/minimum-sum- path-triangle/ ]
+      https://www.geeksforgeeks.org/minimum-sum- path-triangle/ ]
 
 - [ ] • Maximumsizesquaresub-matrixwithall1s [Practice here:
-  https://practice.geeksforgeeks.org/problems/largest-square- formed-in-a-matrix/0
-  ]
+      https://practice.geeksforgeeks.org/problems/largest-square-
+      formed-in-a-matrix/0 ]
 
 - [ ] • Maximumsumofpairswithspecificdifference [Practice here:
-  https://practice.geeksforgeeks.org/problems/pairs-with- specific-difference/0 ]
+      https://practice.geeksforgeeks.org/problems/pairs-with-
+      specific-difference/0 ]
 
 - [ ] • Maximumdifferenceofzerosandonesinbinarystring [Practice here:
-  https://www.geeksforgeeks.org/maximum-
-  difference-zeros-ones-binary-string-set-2-time/ ]
+      https://www.geeksforgeeks.org/maximum-
+      difference-zeros-ones-binary-string-set-2-time/ ]
 
 - [ ] • MinCostPathProblem [Practice here:
-  https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
+      https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
 
 - [ ] • Minimumnumberofjumpstoreachend [Practice here:
-  https://practice.geeksforgeeks.org/problems/minimum-number- of-jumps/0 ]
+      https://practice.geeksforgeeks.org/problems/minimum-number- of-jumps/0 ]
 
 - [ ] • Minimumcosttofillgivenweightinabag [Practice here:
-  https://practice.geeksforgeeks.org/problems/minimum-cost-to-
-  fill-given-weight-in-a-bag/0 ]
+      https://practice.geeksforgeeks.org/problems/minimum-cost-to-
+      fill-given-weight-in-a-bag/0 ]
 
 - [ ] • Minimumremovalsfromarraytomakemax–min<=K [Practice here:
-  https://www.geeksforgeeks.org/minimum- removals-array-make-max-min-k/ ]
+      https://www.geeksforgeeks.org/minimum- removals-array-make-max-min-k/ ]
 
 - [ ] • EditDistance [Practice here:
-  https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
+      https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
 
 
 
@@ -125,55 +124,58 @@ subsequence-sum-such-that-no-three-are-consecutive/ ]
 
 - [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
 
-
 [Practice here: https://practice.geeksforgeeks.org/problems/minimum-time/0 ]
 
 - [ ] • LongestCommonSubstring [Practice here:
-  https://practice.geeksforgeeks.org/problems/longest-common- substring/0 ]
+      https://practice.geeksforgeeks.org/problems/longest-common- substring/0 ]
 
 - [ ] • Countnumberofwaystoreachagivenscoreinagame [Practice here:
-  https://practice.geeksforgeeks.org/problems/reach-a-given- score/0 ]
+      https://practice.geeksforgeeks.org/problems/reach-a-given- score/0 ]
 
 - [ ] • Countnumberofwaystocoveradistance [Practice here:
-  https://practice.geeksforgeeks.org/problems/count-number-of- hops/0 ]
+      https://practice.geeksforgeeks.org/problems/count-number-of- hops/0 ]
 
 - [ ] • CountBalancedBinaryTreesofHeighth [Practice here:
-  https://practice.geeksforgeeks.org/problems/bbt- counter/0 ]
+      https://practice.geeksforgeeks.org/problems/bbt- counter/0 ]
 
 - [ ] • CountwaystodividecircleusingNnon-intersectingchords [Practice here:
-  https://www.geeksforgeeks.org/count-ways-
-  divide-circle-using-n-non-intersecting-chords/ ]
+      https://www.geeksforgeeks.org/count-ways-
+      divide-circle-using-n-non-intersecting-chords/ ]
 
 - [ ] • LargestSumContiguousSubarray [Practice here:
-  https://practice.geeksforgeeks.org/problems/kadanes- algorithm/0 ]
+      https://practice.geeksforgeeks.org/problems/kadanes- algorithm/0 ]
 
 - [ ] • Smallestsumcontiguoussubarray [Practice here:
-  https://www.geeksforgeeks.org/smallest-sum- contiguous-subarray/ ]
+      https://www.geeksforgeeks.org/smallest-sum- contiguous-subarray/ ]
 
 - [ ] • UnboundedKnapsack(Repetitionofitemsallowed) [Practice
-
 
 here:https://practice.geeksforgeeks.org/problems/knapsack-
 with-duplicate-items/0 ]
 
 - [ ] • EggDroppingPuzzle [Practice here:
-  https://practice.geeksforgeeks.org/problems/egg- dropping-puzzle/0 ]
+      https://practice.geeksforgeeks.org/problems/egg- dropping-puzzle/0 ]
 
 
 
 
 
 - [ ] • WordBreakProblem [Practice here:
-  https://practice.geeksforgeeks.org/problems/word-break/0 ]
+      https://practice.geeksforgeeks.org/problems/word-break/0 ]
 
-- [ ] • VertexCoverProblem [Practice here: https://www.geeksforgeeks.org/vertex-cover-
-  problem-set-2-dynamic-programming-solution-tree/ ]
+- [ ] • VertexCoverProblem [Practice here:
+      https://www.geeksforgeeks.org/vertex-cover-
+      problem-set-2-dynamic-programming-solution-tree/ ]
 
 - [ ] • TileStackingProblem [Practice here:
-  https://www.geeksforgeeks.org/tile-stacking- problem/ ]
+      https://www.geeksforgeeks.org/tile-stacking- problem/ ]
 
 - [ ] • LargestIndependentSetProblem [Practice here:
+<<<<<<< HEAD
   https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
+=======
+      https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
+>>>>>>> 8ebf1ebe7e0c655727731c71ad4d02fe45f95d26
 
 • Partitionproblem [Practice here: https://www.geeksforgeeks.org/partition-
 problem-dp-18/ ]
