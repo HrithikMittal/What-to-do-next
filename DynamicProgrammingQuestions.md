@@ -86,16 +86,13 @@
       https://practice.geeksforgeeks.org/problems/max-length-chain/1 ]
 - [ ] • Minimum Sum Path in a Triangle [Practice here:
       https://www.geeksforgeeks.org/minimum-sum-path-triangle/ ]
-- [ ] • Maximum size square sub-matrix with all 1s [Practice here:
-      https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0
-      ]
+- [x] • Maximum size square sub-matrix with all 1s [Practice here:
+      https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0 ]
 - [ ] • Maximum sum of pairs with specific difference [Practice here:
-      https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0
-      ]
-- [ ] • Maximum difference of zeros and ones in binary string [Practice here:
-      https://www.geeksforgeeks.org/maximum-
-      difference-zeros-ones-binary-string-set-2-time/ ]
-- [ ] • Min Cost Path Problem [Practice here:
+      https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0 ]
+- [x] • Maximum difference of zeros and ones in binary string [Practice here:
+      https://www.geeksforgeeks.org/maximum-difference-zeros-ones-binary-string-set-2-time/ ]
+- [x] • Min Cost Path Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
 - [ ] • Minimum number of jump store each end [Practice here:
       https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 ]
