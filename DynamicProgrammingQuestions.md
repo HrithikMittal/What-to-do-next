@@ -51,18 +51,17 @@
 - [x] • Longest Repeated Subsequence [Practice here:
   https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0 ]
 
-- [ ] • Longest Increasing Subsequence [Practice here:
+- [x] • Longest Increasing Subsequence [Practice here:
   https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0 ]
 
-- [ ] • SpaceOptimizedSolutionofLCS [See here:
-  https://www.geeksforgeeks.org/space-optimized- solution-lcs/ ]
+- [x] • Space Optimized Solution of LCS [See here:
+  https://www.geeksforgeeks.org/space-optimized-solution-lcs/ ]
 
-- [ ] • LCS(LongestCommonSubsequence)ofthreestrings [Practice here:
+- [x] • LCS (Longest Common Subsequence) of three strings [Practice here:
   https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0 ]
 
-- [ ] • MaximumSumIncreasingSubsequence [Practice here:
-  https://practice.geeksforgeeks.org/problems/maximum-sum-
-  increasing-subsequence/0 ]
+- [x] • Maximum Sum Increasing Subsequence [Practice here:
+  https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0 ]
 
 
 
