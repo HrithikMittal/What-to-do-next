@@ -67,53 +67,37 @@
 
 
 
-- [ ] • CountallsubsequenceshavingproductlessthanK [Practice here:
-      https://www.geeksforgeeks.org/count- subsequences-product-less-k/ ]
+- [ ] • Count all subsequences having product less than K [Practice here:
+      https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
 
-- [ ] • Longestsubsequencesuchthatdifferencebetweenadjacent is one
+- [x] • Longest subsequence such that difference between adjacent is one[Practice here:
 
-[Practice here:
+  ​	https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0 ]
 
-https://practice.geeksforgeeks.org/problems/longest-
-subsequence-such-that-difference-between-adjacents-is-one/0 ]
+- [x] • Maximum subsequence sum such that no three are consecutive [Practice here: 
 
-- [ ] • Maximumsubsequencesumsuchthatnothreeare consecutive
+     https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/ ]
 
-[Practice here: https://www.geeksforgeeks.org/maximum-
-subsequence-sum-such-that-no-three-are-consecutive/ ]
-
-- [ ] • MaximumLengthChainofPairs [Practice here:
-      https://practice.geeksforgeeks.org/problems/max-length- chain/1 ]
-
-- [ ] • MinimumSumPathinaTriangle [Practice here:
-      https://www.geeksforgeeks.org/minimum-sum- path-triangle/ ]
-
-- [ ] • Maximumsizesquaresub-matrixwithall1s [Practice here:
-      https://practice.geeksforgeeks.org/problems/largest-square-
-      formed-in-a-matrix/0 ]
-
-- [ ] • Maximumsumofpairswithspecificdifference [Practice here:
-      https://practice.geeksforgeeks.org/problems/pairs-with-
-      specific-difference/0 ]
-
-- [ ] • Maximumdifferenceofzerosandonesinbinarystring [Practice here:
+- [x] • Maximum Length Chain of Pairs [Practice here:
+      https://practice.geeksforgeeks.org/problems/max-length-chain/1 ]
+- [ ] • Minimum Sum Path in a Triangle [Practice here:
+      https://www.geeksforgeeks.org/minimum-sum-path-triangle/ ]
+- [ ] • Maximum size square sub-matrix with all 1s [Practice here:
+      https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0 ]
+- [ ] • Maximum sum of pairs with specific difference [Practice here:
+      https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0 ]
+- [ ] • Maximum difference of zeros and ones in binary string [Practice here:
       https://www.geeksforgeeks.org/maximum-
       difference-zeros-ones-binary-string-set-2-time/ ]
-
-- [ ] • MinCostPathProblem [Practice here:
+- [ ] • Min Cost Path Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
-
-- [ ] • Minimumnumberofjumpstoreachend [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-number- of-jumps/0 ]
-
-- [ ] • Minimumcosttofillgivenweightinabag [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-cost-to-
-      fill-given-weight-in-a-bag/0 ]
-
-- [ ] • Minimumremovalsfromarraytomakemax–min<=K [Practice here:
-      https://www.geeksforgeeks.org/minimum- removals-array-make-max-min-k/ ]
-
-- [ ] • EditDistance [Practice here:
+- [ ] • Minimum number of jump store each end [Practice here:
+      https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 ]
+- [ ] • Minimum cost to fill given weighting a bag [Practice here:
+      https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0 ]
+- [ ] • Minimum removals from array to make max–min<=K [Practice here:
+      https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/ ]
+- [ ] • Edit Distance [Practice here:
       https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
 
 
