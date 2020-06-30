@@ -1,5 +1,7 @@
 **Dynamic Programming Questions:**
 
+## Part 1
+
 - [x] • How to solve a Dynamic Programming Problem? [Practice here:
       https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ ]
 
@@ -33,11 +35,7 @@
 * [x] • Assembly Line Scheduling Problem [Practice here:
       https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/ ]
 
-* [ ] • Find maximum length Snake sequence [Practice here:
-      https://www.geeksforgeeks.org/find-maximum-length-snake-sequence/ ]
-
-* [x] • Print Fibonacci Series in reverse order [Practice here:
-      https://www.geeksforgeeks.org/print-fibonacci-series-reverse-order/ ]
+## Part 2
 
 * [x] • Longest Common Subsequence [Practice here:
       https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0 ]
@@ -53,12 +51,7 @@
 * [x] • Space Optimized Solution of LCS [See here:
       https://www.geeksforgeeks.org/space-optimized-solution-lcs/ ]
 
-* [x] • LCS (Longest Common Subsequence) of three strings [Practice here:
-      https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0 ]
-
-* [x] • Maximum Sum Increasing Subsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0
-      ]
+## Part 3
 
 - [ ] • Count all subsequences having product less than K [Practice here:
       https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
@@ -101,7 +94,13 @@
 - [ ] • Edit Distance [Practice here:
       https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
 
-* [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
+
+
+
+
+## Part 4
+
+- [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
 
 [Practice here: https://practice.geeksforgeeks.org/problems/minimum-time/0 ]
 
@@ -135,7 +134,11 @@ with-duplicate-items/0 ]
 - [ ] • EggDroppingPuzzle [Practice here:
       https://practice.geeksforgeeks.org/problems/egg- dropping-puzzle/0 ]
 
-* [ ] • WordBreakProblem [Practice here:
+
+
+## Part 5
+
+- [ ] • WordBreakProblem [Practice here:
       https://practice.geeksforgeeks.org/problems/word-break/0 ]
 
 * [ ] • VertexCoverProblem [Practice here:
@@ -145,105 +148,121 @@ with-duplicate-items/0 ]
 * [ ] • TileStackingProblem [Practice here:
       https://www.geeksforgeeks.org/tile-stacking- problem/ ]
 
-* [ ] • LargestIndependentSetProblem [Practice here: <<<<<<< HEAD
-      https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
-      ======= https://www.geeksforgeeks.org/largest-
-      independent-set-problem-dp-26/ ]
-  > > > > > > > 8ebf1ebe7e0c655727731c71ad4d02fe45f95d26
+- [ ] • LargestIndependentSetProblem [Practice here:
 
-• Partitionproblem [Practice here: https://www.geeksforgeeks.org/partition-
-problem-dp-18/ ]
+  https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
 
-• TravellingSalesmanProblem [Practice here:
-https://www.geeksforgeeks.org/travelling- salesman-problem-set-1/ ]
+- [ ] • Partitionproblem [Practice here: https://www.geeksforgeeks.org/partition-
+  problem-dp-18/ ]
 
-• LongestPalindromicSubsequence [Practice here:
-https://www.geeksforgeeks.org/longest- palindromic-subsequence-dp-12/ ]
+- [ ] • TravellingSalesmanProblem [Practice here:
+  https://www.geeksforgeeks.org/travelling- salesman-problem-set-1/ ]
 
-• CountAllPalindromicSubsequenceinagivenString [Practice here:
-https://practice.geeksforgeeks.org/problems/count-palindromic- subsequences/1 ]
+- [ ] • LongestPalindromicSubsequence [Practice here:
+  https://www.geeksforgeeks.org/longest- palindromic-subsequence-dp-12/ ]
 
-• LongestPalindromicSubstring [Practice here:
-https://practice.geeksforgeeks.org/problems/longest- palindrome-in-a-string/0 ]
+- [ ] • CountAllPalindromicSubsequenceinagivenString [Practice here:
+  https://practice.geeksforgeeks.org/problems/count-palindromic- subsequences/1 ]
 
-• Longestalternatingsubsequence [Practice here:
-https://practice.geeksforgeeks.org/problems/longest- alternating-subsequence/0 ]
+- [ ] • LongestPalindromicSubstring [Practice here:
+  https://practice.geeksforgeeks.org/problems/longest- palindrome-in-a-string/0 ]
 
-• WeightedJobScheduling [Practice here:
-https://www.geeksforgeeks.org/weighted-job- scheduling/ ]
+- [ ] • Longestalternatingsubsequence [Practice here:
+  https://practice.geeksforgeeks.org/problems/longest- alternating-subsequence/0 ]
 
-• Coingamewinnerwhereeveryplayerhasthreechoices [Practice here:
-https://www.geeksforgeeks.org/coin-game- winner-every-player-three-choices/ ]
+- [ ] • WeightedJobScheduling [Practice here:
+  https://www.geeksforgeeks.org/weighted-job- scheduling/ ]
 
-• CountDerangements(Permutationsuchthatnoelement appears in its original
-position)
+
+
+
+
+## Part 6
+
+- [ ] • Coingamewinnerwhereeveryplayerhasthreechoices [Practice here:
+  https://www.geeksforgeeks.org/coin-game- winner-every-player-three-choices/ ]
+
+- [ ] • CountDerangements(Permutationsuchthatnoelement appears in its original
+  position)
 
 [Practice here:
 
 https://practice.geeksforgeeks.org/problems/dearrangement-of- balls/0 ]
 
-• MaximumsubarraysuminO(n)usingprefixsum [Practice here:
-https://www.geeksforgeeks.org/maximum- subarray-sum-using-prefix-sum/ ]
+- [ ] • MaximumsubarraysuminO(n)usingprefixsum [Practice here:
+  https://www.geeksforgeeks.org/maximum- subarray-sum-using-prefix-sum/ ]
 
-• Maximumprofitbybuyingandsellingashareatmosttwice [Practice here:
-https://www.geeksforgeeks.org/maximum-profit-
-by-buying-and-selling-a-share-at-most-twice/ ]
+- [ ] • Maximumprofitbybuyingandsellingashareatmosttwice [Practice here:
+  https://www.geeksforgeeks.org/maximum-profit-
+  by-buying-and-selling-a-share-at-most-twice/ ]
 
-• FindifstringisK-Palindromeornot [Practice here:
-https://practice.geeksforgeeks.org/problems/k- palindrome/1 ]
+- [ ] • FindifstringisK-Palindromeornot [Practice here:
+  https://practice.geeksforgeeks.org/problems/k- palindrome/1 ]
 
-• WildcardPatternMatching [Practice here:
-https://practice.geeksforgeeks.org/problems/wildcard-pattern- matching/1 ]
+- [ ] • WildcardPatternMatching [Practice here:
+  https://practice.geeksforgeeks.org/problems/wildcard-pattern- matching/1 ]
 
-• OptimalStrategyforaGame [Practice here:
-https://practice.geeksforgeeks.org/problems/optimal-strategy- for-a-game/0 ]
+- [ ] • OptimalStrategyforaGame [Practice here:
+  https://practice.geeksforgeeks.org/problems/optimal-strategy- for-a-game/0 ]
 
-• OptimalBinarySearchTree [Practice here:
-https://www.geeksforgeeks.org/optimal-binary- search-tree-dp-24/ ]
+- [ ] • OptimalBinarySearchTree [Practice here:
+  https://www.geeksforgeeks.org/optimal-binary- search-tree-dp-24/ ]
 
-• Numberoforderedpairssuchthat(Ai&Aj)=0 [Practice here:
-https://www.geeksforgeeks.org/number-ordered- pairs-ai-aj-0/ ]
 
-• PalindromePartitioningProblem [Practice here:
-https://practice.geeksforgeeks.org/problems/palindromic- patitioning/0 ]
 
-• WordWrapProblem [Practice here:
-https://practice.geeksforgeeks.org/problems/word-wrap/0 ]
+## Part 7
 
-• MobileNumericKeypadProblem [Practice here:
-https://practice.geeksforgeeks.org/problems/mobile-numeric- keypad/0 ]
+- [ ] • Numberoforderedpairssuchthat(Ai&Aj)=0 [Practice here:
+  https://www.geeksforgeeks.org/number-ordered- pairs-ai-aj-0/ ]
 
-• Thepainter’spartitionproblem [Practice here:
-https://practice.geeksforgeeks.org/problems/allocate-minimum- number-of-pages/0
-]
+- [ ] • PalindromePartitioningProblem [Practice here:
+  https://practice.geeksforgeeks.org/problems/palindromic- patitioning/0 ]
 
-• BooleanParenthesizationProblem [Practice here:
-https://practice.geeksforgeeks.org/problems/boolean- parenthesization/0 ]
+- [ ] • WordWrapProblem [Practice here:
+  https://practice.geeksforgeeks.org/problems/word-wrap/0 ]
 
-• Largestrectangularsub-matrixwhosesumis0 [Practice here:
-https://www.geeksforgeeks.org/largest- rectangular-sub-matrix-whose-sum-0/ ]
+- [ ] • MobileNumericKeypadProblem [Practice here:
+  https://practice.geeksforgeeks.org/problems/mobile-numeric- keypad/0 ]
 
-• Largestarearectangularsub-matrixwithequalnumberof 1’s and 0’s
+- [ ] • Thepainter’spartitionproblem [Practice here:
+  https://practice.geeksforgeeks.org/problems/allocate-minimum- number-of-pages/0
+  ]
+
+- [ ] • BooleanParenthesizationProblem [Practice here:
+  https://practice.geeksforgeeks.org/problems/boolean- parenthesization/0 ]
+
+- [ ] • Largestrectangularsub-matrixwhosesumis0 [Practice here:
+  https://www.geeksforgeeks.org/largest- rectangular-sub-matrix-whose-sum-0/ ]
+
+- [ ] • Largestarearectangularsub-matrixwithequalnumberof 1’s and 0’s
+
 
 [Practice here: https://www.geeksforgeeks.org/largest-area-
 rectangular-sub-matrix-equal-number-1s-0s/ ]
 
-• Maximumsumrectangleina2Dmatrix [Practice here:
-https://practice.geeksforgeeks.org/problems/maximum-sum- rectangle/0 ]
+- [ ] • Maximumsumrectangleina2Dmatrix [Practice here:
+  https://practice.geeksforgeeks.org/problems/maximum-sum- rectangle/0 ]
 
-• Maximumweighttransformationofagivenstring [Practice here:
-https://www.geeksforgeeks.org/maximum- weight-transformation-of-a-given-string/
-]
 
-• Maximumprofitbybuyingandsellingashareatmostk times
+
+
+
+## Part 8
+
+- [ ] • Maximumweighttransformationofagivenstring [Practice here:
+  https://www.geeksforgeeks.org/maximum- weight-transformation-of-a-given-string/
+  ]
+
+- [ ] • Maximumprofitbybuyingandsellingashareatmostk times
+
 
 [Practice here:https://practice.geeksforgeeks.org/problems/maximum-profit/0]
 
-• ProbabilityofKnighttoremaininthechessboard [Practice here:
-https://practice.geeksforgeeks.org/problems/probability-of- knight/0 ]
+- [ ] • ProbabilityofKnighttoremaininthechessboard [Practice here:
+  https://practice.geeksforgeeks.org/problems/probability-of- knight/0 ]
 
-• Findifastringisinterleavedoftwootherstrings [Practice here:
-https://practice.geeksforgeeks.org/problems/interleaved- strings/1 ]
+- [ ] • Findifastringisinterleavedoftwootherstrings [Practice here:
+  https://practice.geeksforgeeks.org/problems/interleaved- strings/1 ]
 
-• MaximumProductCutting [Practice here: https://www.geeksforgeeks.org/maximum-
-product-cutting-dp-36/ ]
+- [ ] • MaximumProductCutting [Practice here: https://www.geeksforgeeks.org/maximum-
+  product-cutting-dp-36/ ]
