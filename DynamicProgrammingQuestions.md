@@ -137,20 +137,20 @@
 - [ ] • Word Break Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/word-break/0 ]
 
-- [ ] • Vertex Cover Problem [Practice here:
+- [x] • Vertex Cover Problem [Practice here:
       https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/ ]
   
-- [ ] • Tile StackingProblem [Practice here:
+- [ ] • Tile Stacking Problem [Practice here:
       https://www.geeksforgeeks.org/tile-stacking-problem/ ]
 
-- [ ] • Largest Independent Set Problem [Practice here:
+- [x] • Largest Independent Set Problem [Practice here:
 
   https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/ ]
 
-- [ ] • Partition problem [Practice here:
+- [x] • Partition problem [Practice here:
       https://www.geeksforgeeks.org/partition-problem-dp-18/ ]
 
-- [ ] • Travelling Salesman Problem [Practice here:
+- [x] • Travelling Salesman Problem [Practice here:
       https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/ ]
 
 - [ ] • Longest Palindromic Subsequence [Practice here:
@@ -165,41 +165,35 @@
 - [ ] • Longest alternating subsequence [Practice here:
       https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0 ]
   
-- [ ] • Weighted Job Scheduling [Practice here:
+- [x] • Weighted Job Scheduling [Practice here:
       https://www.geeksforgeeks.org/weighted-job-scheduling/ ]
 
 ## Part 6
 
-- [ ] • Coingamewinnerwhereeveryplayerhasthreechoices [Practice here:
-      https://www.geeksforgeeks.org/coin-game-
-      winner-every-player-three-choices/ ]
-
-- [ ] • CountDerangements(Permutationsuchthatnoelement appears in its original
-      position)
-
-[Practice here:
-
-https://practice.geeksforgeeks.org/problems/dearrangement-of- balls/0 ]
-
+- [ ] • Coin game winner where every player has three choices [Practice here:
+      https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/ ]
+  
+- [ ] • Count Derangements(Permutation such that no element appears in its original position) [Practice here:
+  
+  ​	https://practice.geeksforgeeks.org/problems/dearrangement-of- balls/0 ]
+  
 - [ ] • MaximumsubarraysuminO(n)usingprefixsum [Practice here:
-      https://www.geeksforgeeks.org/maximum- subarray-sum-using-prefix-sum/ ]
+      https://www.geeksforgeeks.org/maximum-subarray-sum-using-prefix-sum/ ]
 
 - [ ] • Maximumprofitbybuyingandsellingashareatmosttwice [Practice here:
-      https://www.geeksforgeeks.org/maximum-profit-
-      by-buying-and-selling-a-share-at-most-twice/ ]
+      https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/ ]
 
 - [ ] • FindifstringisK-Palindromeornot [Practice here:
-      https://practice.geeksforgeeks.org/problems/k- palindrome/1 ]
+      https://practice.geeksforgeeks.org/problems/k-palindrome/1 ]
 
 - [ ] • WildcardPatternMatching [Practice here:
-      https://practice.geeksforgeeks.org/problems/wildcard-pattern- matching/1 ]
+      https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1 ]
 
 - [ ] • OptimalStrategyforaGame [Practice here:
-      https://practice.geeksforgeeks.org/problems/optimal-strategy- for-a-game/0
-      ]
+      https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0 ]
 
 - [ ] • OptimalBinarySearchTree [Practice here:
-      https://www.geeksforgeeks.org/optimal-binary- search-tree-dp-24/ ]
+      https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/ ]
 
 ## Part 7
 
