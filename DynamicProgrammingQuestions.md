@@ -67,34 +67,35 @@
 ## Part 3
 
 - [ ] • Count all subsequences having product less than K [Practice here:
-      https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
+    https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
 
 - [x] • Longest subsequence such that difference between adjacent is one[Practice here:
-  https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0 ]
+    https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0 ]
 
 - [x] • Maximum subsequence sum such that no three are consecutive [Practice here:
   
-https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/ ]
-  
+
+​        https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/ ]
+
 - [x] • Maximum Length Chain of Pairs [Practice here:
-      https://practice.geeksforgeeks.org/problems/max-length-chain/1 ]
+    https://practice.geeksforgeeks.org/problems/max-length-chain/1 ]
 - [ ] • Minimum Sum Path in a Triangle [Practice here:
-      https://www.geeksforgeeks.org/minimum-sum-path-triangle/ ]
+    https://www.geeksforgeeks.org/minimum-sum-path-triangle/ ]
 - [x] • Maximum size square sub-matrix with all 1s [Practice here:
-      https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0 ]
+     https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0 ]
 - [ ] • Maximum sum of pairs with specific difference [Practice here:
       https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0 ]
 - [x] • Maximum difference of zeros and ones in binary string [Practice here:
-      https://www.geeksforgeeks.org/maximum-difference-zeros-ones-binary-string-set-2-time/ ]
+       https://www.geeksforgeeks.org/maximum-difference-zeros-ones-binary-string-set-2-time/ ]
 - [x] • Min Cost Path Problem [Practice here:
-      https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
+     https://practice.geeksforgeeks.org/problems/path-in-matrix/0 ]
 - [ ] • Minimum number of jump store each end [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 ]
+     https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 ]
 - [ ] • Minimum cost to fill given weighting a bag [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0 ]
+     https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0 ]
 - [ ] • Minimum removals from array to make max–min<=K [Practice here:
       https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/ ]
-- [ ] • Edit Distance [Practice here:
+- [x] • Edit Distance [Practice here:
       https://practice.geeksforgeeks.org/problems/edit-distance/0 ]
 
 ## Part 4
@@ -133,43 +134,39 @@ https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-con
 
 ## Part 5
 
-- [ ] • WordBreakProblem [Practice here:
+- [ ] • Word Break Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/word-break/0 ]
 
-- [ ] • VertexCoverProblem [Practice here:
-      https://www.geeksforgeeks.org/vertex-cover-
-      problem-set-2-dynamic-programming-solution-tree/ ]
+- [ ] • Vertex Cover Problem [Practice here:
+      https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/ ]
+  
+- [ ] • Tile StackingProblem [Practice here:
+      https://www.geeksforgeeks.org/tile-stacking-problem/ ]
 
-- [ ] • TileStackingProblem [Practice here:
-      https://www.geeksforgeeks.org/tile-stacking- problem/ ]
+- [ ] • Largest Independent Set Problem [Practice here:
 
-- [ ] • LargestIndependentSetProblem [Practice here:
+  https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/ ]
 
-  https://www.geeksforgeeks.org/largest- independent-set-problem-dp-26/ ]
+- [ ] • Partition problem [Practice here:
+      https://www.geeksforgeeks.org/partition-problem-dp-18/ ]
 
-- [ ] • Partitionproblem [Practice here:
-      https://www.geeksforgeeks.org/partition- problem-dp-18/ ]
+- [ ] • Travelling Salesman Problem [Practice here:
+      https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/ ]
 
-- [ ] • TravellingSalesmanProblem [Practice here:
-      https://www.geeksforgeeks.org/travelling- salesman-problem-set-1/ ]
+- [ ] • Longest Palindromic Subsequence [Practice here:
+      https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/ ]
 
-- [ ] • LongestPalindromicSubsequence [Practice here:
-      https://www.geeksforgeeks.org/longest- palindromic-subsequence-dp-12/ ]
-
-- [ ] • CountAllPalindromicSubsequenceinagivenString [Practice here:
-      https://practice.geeksforgeeks.org/problems/count-palindromic-
-      subsequences/1 ]
-
-- [ ] • LongestPalindromicSubstring [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-
-      palindrome-in-a-string/0 ]
-
-- [ ] • Longestalternatingsubsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-
-      alternating-subsequence/0 ]
-
-- [ ] • WeightedJobScheduling [Practice here:
-      https://www.geeksforgeeks.org/weighted-job- scheduling/ ]
+- [ ] • Count All Palindromic Subsequence in a given String [Practice here:
+      https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1 ]
+  
+- [ ] • Longest Palindromic Substring [Practice here:
+      https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0 ]
+  
+- [ ] • Longest alternating subsequence [Practice here:
+      https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0 ]
+  
+- [ ] • Weighted Job Scheduling [Practice here:
+      https://www.geeksforgeeks.org/weighted-job-scheduling/ ]
 
 ## Part 6
 
