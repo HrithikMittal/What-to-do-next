@@ -69,19 +69,13 @@
 - [ ] • Count all subsequences having product less than K [Practice here:
       https://www.geeksforgeeks.org/count-subsequences-product-less-k/ ]
 
-- [x] • Longest subsequence such that difference between adjacent is
-      one[Practice here:
+- [x] • Longest subsequence such that difference between adjacent is one[Practice here:
+  https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0 ]
 
-  ​
-  https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0
-  ]
-
-- [x] • Maximum subsequence sum such that no three are consecutive [Practice
-      here:
-
-  https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/
-  ]
-
+- [x] • Maximum subsequence sum such that no three are consecutive [Practice here:
+  
+https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/ ]
+  
 - [x] • Maximum Length Chain of Pairs [Practice here:
       https://practice.geeksforgeeks.org/problems/max-length-chain/1 ]
 - [ ] • Minimum Sum Path in a Triangle [Practice here:
@@ -97,8 +91,7 @@
 - [ ] • Minimum number of jump store each end [Practice here:
       https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0 ]
 - [ ] • Minimum cost to fill given weighting a bag [Practice here:
-      https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0
-      ]
+      https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag/0 ]
 - [ ] • Minimum removals from array to make max–min<=K [Practice here:
       https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/ ]
 - [ ] • Edit Distance [Practice here:
@@ -106,39 +99,37 @@
 
 ## Part 4
 
-- [ ] • Minimumtimetowritecharactersusinginsert,deleteand copy operation
+- [x] • Minimum time to write characters using insert,delete and copy operation [Practice here: 
 
-[Practice here: https://practice.geeksforgeeks.org/problems/minimum-time/0 ]
+  ​	https://practice.geeksforgeeks.org/problems/minimum-time/0 ]
 
-- [ ] • LongestCommonSubstring [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-common- substring/0 ]
+- [x] • Longest Common Substring [Practice here:
+      https://practice.geeksforgeeks.org/problems/longest-common-substring/0 ]
 
-- [ ] • Countnumberofwaystoreachagivenscoreinagame [Practice here:
-      https://practice.geeksforgeeks.org/problems/reach-a-given- score/0 ]
+- [x] • Count number of ways to reach a given score in a game [Practice here:
+      https://practice.geeksforgeeks.org/problems/reach-a-given-score/0 ]
 
-- [ ] • Countnumberofwaystocoveradistance [Practice here:
-      https://practice.geeksforgeeks.org/problems/count-number-of- hops/0 ]
+- [x] • Count number of ways to cover a distance [Practice here:
+      https://practice.geeksforgeeks.org/problems/count-number-of-hops/0 ]
 
-- [ ] • CountBalancedBinaryTreesofHeighth [Practice here:
-      https://practice.geeksforgeeks.org/problems/bbt- counter/0 ]
+- [x] • Count Balanced Binary Trees of Heighth [Practice here:
+      https://practice.geeksforgeeks.org/problems/bbt-counter/0 ]
 
-- [ ] • CountwaystodividecircleusingNnon-intersectingchords [Practice here:
-      https://www.geeksforgeeks.org/count-ways-
-      divide-circle-using-n-non-intersecting-chords/ ]
+- [x] • Count ways to divide circle using N non-intersecting chords [Practice here:
+      https://www.geeksforgeeks.org/count-ways-divide-circle-using-n-non-intersecting-chords/ ]
+  
+- [x] • Largest Sum Contiguous Subarray (Kadane's Algorithm)[Practice here:
+      https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0 ]
 
-- [ ] • LargestSumContiguousSubarray [Practice here:
-      https://practice.geeksforgeeks.org/problems/kadanes- algorithm/0 ]
+- [x] • Smallest Sum Contiguous Subarray [Practice here:
+      https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/ ]
 
-- [ ] • Smallestsumcontiguoussubarray [Practice here:
-      https://www.geeksforgeeks.org/smallest-sum- contiguous-subarray/ ]
+- [ ] • Unbounded Knapsack (Repet ition of items allowed) [Practice here:
 
-- [ ] • UnboundedKnapsack(Repetitionofitemsallowed) [Practice
+   	https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items/0 ]
 
-here:https://practice.geeksforgeeks.org/problems/knapsack-
-with-duplicate-items/0 ]
-
-- [ ] • EggDroppingPuzzle [Practice here:
-      https://practice.geeksforgeeks.org/problems/egg- dropping-puzzle/0 ]
+- [x] • Egg Dropping Puzzle [Practice here:
+       https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0 ]
 
 ## Part 5
 
