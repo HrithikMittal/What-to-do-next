@@ -170,63 +170,60 @@
 
 ## Part 6
 
-- [ ] • Coin game winner where every player has three choices [Practice here:
+- [x] • Coin game winner where every player has three choices [Practice here:
       https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/ ]
   
-- [ ] • Count Derangements(Permutation such that no element appears in its original position) [Practice here:
+- [x] • Count Derangements(Permutation such that no element appears in its original position) [Practice here:
   
-  ​	https://practice.geeksforgeeks.org/problems/dearrangement-of- balls/0 ]
+  ​	https://practice.geeksforgeeks.org/problems/dearrangement-of-balls/0 ]
   
-- [ ] • MaximumsubarraysuminO(n)usingprefixsum [Practice here:
+- [x] • Maximum subarray sum in O(n) using prefix sum [Practice here:
       https://www.geeksforgeeks.org/maximum-subarray-sum-using-prefix-sum/ ]
 
-- [ ] • Maximumprofitbybuyingandsellingashareatmosttwice [Practice here:
+- [ ] • Maximum profit by buying and selling a share at most twice [Practice here:
       https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/ ]
 
-- [ ] • FindifstringisK-Palindromeornot [Practice here:
+- [x] • Find if string is K-Palindrome or not [Practice here:
       https://practice.geeksforgeeks.org/problems/k-palindrome/1 ]
 
-- [ ] • WildcardPatternMatching [Practice here:
+- [ ] • Wildcard Pattern Matching [Practice here:
       https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1 ]
 
-- [ ] • OptimalStrategyforaGame [Practice here:
+- [ ] • Optimal Strategy for a Game [Practice here:
       https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0 ]
 
-- [ ] • OptimalBinarySearchTree [Practice here:
+- [ ] • Optimal Binary Search Tree [Practice here:
       https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/ ]
 
 ## Part 7
 
-- [ ] • Numberoforderedpairssuchthat(Ai&Aj)=0 [Practice here:
-      https://www.geeksforgeeks.org/number-ordered- pairs-ai-aj-0/ ]
+- [ ] • Number of ordered pairs such that (Ai&Aj) = 0 [Practice here:
+      https://www.geeksforgeeks.org/number-ordered-pairs-ai-aj-0/ ]
 
-- [ ] • PalindromePartitioningProblem [Practice here:
-      https://practice.geeksforgeeks.org/problems/palindromic- patitioning/0 ]
+- [ ] • Palindrome Partitioning Problem [Practice here:
+      https://practice.geeksforgeeks.org/problems/palindromic-patitioning/0 ]
 
-- [ ] • WordWrapProblem [Practice here:
+- [ ] • Word Wrap Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/word-wrap/0 ]
 
-- [ ] • MobileNumericKeypadProblem [Practice here:
-      https://practice.geeksforgeeks.org/problems/mobile-numeric- keypad/0 ]
+- [ ] • Mobile Numeric Keypad Problem [Practice here:
+      https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad/0 ]
 
-- [ ] • Thepainter’spartitionproblem [Practice here:
-      https://practice.geeksforgeeks.org/problems/allocate-minimum-
-      number-of-pages/0 ]
+- [ ] • The painter’s partition problem [Practice here:
+      https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0 ]
+  
+- [ ] • Boolean Parenthesization Problem [Practice here:
+      https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0 ]
 
-- [ ] • BooleanParenthesizationProblem [Practice here:
-      https://practice.geeksforgeeks.org/problems/boolean- parenthesization/0 ]
+- [ ] • Largest rectangular sub-matrix whose sum is 0 [Practice here:
+      https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/ ]
+  
+- [ ] • Largest are arectangular sub-matrix with equal number of 1’s and 0’s [Practice here: 
 
-- [ ] • Largestrectangularsub-matrixwhosesumis0 [Practice here:
-      https://www.geeksforgeeks.org/largest- rectangular-sub-matrix-whose-sum-0/
-      ]
+  ​	https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/ ]
 
-- [ ] • Largestarearectangularsub-matrixwithequalnumberof 1’s and 0’s
-
-[Practice here: https://www.geeksforgeeks.org/largest-area-
-rectangular-sub-matrix-equal-number-1s-0s/ ]
-
-- [ ] • Maximumsumrectangleina2Dmatrix [Practice here:
-      https://practice.geeksforgeeks.org/problems/maximum-sum- rectangle/0 ]
+- [ ] • Maximum sum rectangle in a 2D matrix [Practice here:
+      https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0 ]
 
 ## Part 8
 
