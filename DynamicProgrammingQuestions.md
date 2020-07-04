@@ -5,13 +5,13 @@
 - [x] • How to solve a Dynamic Programming Problem? [Practice here:
       https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ ]
 
-- [ ] • Binomial Coefficient Problem [Practice here:
+- [x] • Binomial Coefficient Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/ncr/0 ]
 
 - [x] • Permutation Coefficient Problem [Practice here:
       https://www.geeksforgeeks.org/permutation-coefficient/ ]
 
-- [ ] • Coin Change Problem [Practice here:
+- [x] • Coin Change Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/coin-change/0 ]
 
 - [ ] • Gold MineProblem [Practice here:
@@ -20,7 +20,7 @@
 - [x] • Friends Pairing Problem[Practice here:
       https://practice.geeksforgeeks.org/problems/friends-pairing-problem/0 ]
 
-- [ ] • Subset Sum Problem [Practice here:
+- [x] • Subset Sum Problem [Practice here:
       https://practice.geeksforgeeks.org/problems/subset-sum-problem/0 ]
 
 - [ ] • Program for nth Catalan Number[Practice here:
@@ -47,13 +47,11 @@
       https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0 ]
 
 - [x] • Longest Repeated Subsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0
-      ]
-
+      https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0 ]
+  
 - [x] • Longest Increasing Subsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0
-      ]
-
+      https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0 ]
+  
 - [x] • Space Optimized Solution of LCS [See here:
       https://www.geeksforgeeks.org/space-optimized-solution-lcs/ ]
 
@@ -61,8 +59,7 @@
       https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0 ]
 
 - [x] • Maximum Sum Increasing Subsequence [Practice here:
-      https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0
-      ]
+      https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence/0 ]
 
 ## Part 3
 
